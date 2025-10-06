@@ -1,9 +1,4 @@
 <!-- Profile README - @Fjdwe19 -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I%E2%80%99m+%40Fjdwe19;Welcome+to+my+profile%2C+guys!;This+is+my+second+account+%F0%9F%94%91" alt="Typing SVG" />
-</p>
-
 <div align="center">
   
 # Fjdwe19
@@ -18,22 +13,25 @@ Silakan jelajah, kasih bintang ⭐, atau buka diskusi. Terima kasih sudah mampir
 ---
 
 ## ✨ Quick Facts
-- 🔁 Second account for experiments & sandboxing
-- 🧰 Sering ngoprek hal baru & ngerapihin workflow
-- 🗂️ Mix of notes, snippets, and small projects
-- 🙌 Always open to feedback & collaboration
+-  Second account for experiments & sandboxing
+-  Sering ngoprek hal baru & ngerapihin workflow
+-  Mix of notes, snippets, and small projects
+-  Always open to feedback & collaboration
 
 ## 🧭 Currently
-- 📚 Belajar & merapikan repo catatan
-- 🧱 Membangun komponen kecil yang reusable
-- 🧪 Coba-coba automation & CI sederhana
+-  Belajar & merapikan repo catatan
+-  Membangun komponen kecil yang reusable
+-  Coba-coba automation & CI sederhana
 
 ## 🧰 Tech Corner
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Exploration-informational?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-Minimalist-111827?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Learning-10B981?style=flat" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
 ## 📊 GitHub Snapshot
